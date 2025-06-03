@@ -1,0 +1,31 @@
+*{
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.contendor{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 10px 15px 10px;
+    gap: 30px;
+    border: solid 1px black;
+}
+.caja1{
+    background-color: rgb(221, 19, 103);
+    padding: 30px 20px 30px 10px;
+    border: 1px blue solid;
+}
+.caja2{
+    background-color: aquamarine;
+    padding: 30px 20px 30px 15px;
+    border: 1px blue solid;
+}
