@@ -1,0 +1,14 @@
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+
+}
+thead th{
+    border: solid 2px black;
+    background-color: #f16161;
+    padding: 10px;
+}
+tbody td {
+    border: solid 2px black;
+    padding: 10px;
+}
