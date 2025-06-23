@@ -15,7 +15,13 @@ let cliente = [
     nombre: "edwin",
     edad: 18,
     correo: "edwin@gmail.com",
-    compras: [2, 4, 8, 10 , 12, 5, 7],
+    compras: [1, 4, 8, 10 , 12, 5, 7],
+  },
+  {
+    nombre: "luis",
+    edad: 18,
+    correo: "luis@gmail.com",
+    compras: [3],
   },
   {
     nombre: "kevin",
